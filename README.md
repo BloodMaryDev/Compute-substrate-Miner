@@ -44,7 +44,7 @@ Use the `cuda124` build only for rigs stuck on a CUDA 12.4 driver (no Blackwell)
 
 Example Flighsheet Hive-OS 
 
-<img width="673" height="696" alt="image" src="https://github.com/user-attachments/assets/87975bd0-f318-483d-bbb2-a50a74899acd" />
+<img width="671" height="695" alt="image" src="https://github.com/user-attachments/assets/1d3ed4bb-6568-4b22-b983-4d9ac1f537bc" />
 
 ## Options (the ones you need)
 
